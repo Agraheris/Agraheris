@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm VIGOUROUX Clément</h1>
 <h3 align="center">Web developer specialized in front-end with React and back-end with Express and MySQL. Always ready to take on new challenges!</h3>
 
-- 🔭 I’m currently working on <a href="[https://openclassrooms.com/fr/](https://github.com/WildCodeSchool-2024-02/JS-RemoteFR-CodeOfWar-P3-afac974)">Virtuart</a>
+- 🔭 I’m currently working on <a href="https://github.com/WildCodeSchool-2024-02/JS-RemoteFR-CodeOfWar-P3-afac974">Virtuart</a>
 
 - 🌱 I’m currently learning **TypeScript,**
 
