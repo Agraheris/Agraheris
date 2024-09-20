@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm VIGOUROUX Clément</h1>
 <h3 align="center">Web developer specialized in front-end with React and back-end with Express and MySQL. Always ready to take on new challenges!</h3>
 
-- 🔭 I’m currently working on [VirtuArt](Link coming soon)
+- 🔭 I’m currently working on [VirtuArt]   (Link coming soon)
 
 - 🌱 I’m currently learning **TypeScript,**
 
 - 📫 How to reach me **clement.vigouroux@gmail.com**
 
-- 📄 Know about my experiences [As a Web Developer at Wild Code School (2024 - Present), I developed web applications using JavaScript, React, Node.js, and MySQL, while participating in collaborative projects and integrating APIs.](As a Web Developer at Wild Code School (2024 - Present), I developed web applications using JavaScript, React, Node.js, and MySQL, while participating in collaborative projects and integrating APIs.)
-
+- 📄 Know about my experiences : </br>
+As a Web Developer at Wild Code School (2024 - Present), I developed web applications using JavaScript, React, Node.js, and MySQL, while participating in collaborative projects and integrating APIs.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/clément vigouroux" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="clément vigouroux" height="30" width="40" /></a>
