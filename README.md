@@ -2,7 +2,7 @@
 <h3 align="center">Web developer specialized in front-end with React and back-end with Express and MySQL. Always ready to take on new challenges!</h3>
 
 
-- 🌱 I’m currently learning **TypeScript,**
+- 🌱 I’m currently learning **TypeScript, Python, Next.js**
 
 - 📫 How to reach me **clement.vigouroux@gmail.com**
 
